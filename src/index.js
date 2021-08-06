@@ -15,7 +15,7 @@ function App(){
         <AppBar position="static" color="primary" className={cx("appBar")}>
         <Toolbar>
         <Button  to="/" component={Link} className={cx("navButton")}>Rewards table</Button>
-        <Button  to="/about" component={Link} className={cx("navButton")}>About</Button>
+        <Button  to="/about" component={Link} className={cx("navButton")}>Raw data</Button>
         </Toolbar>
         </AppBar>
         <Switch>
