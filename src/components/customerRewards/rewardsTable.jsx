@@ -100,35 +100,3 @@ class RewardsTableNoWrap extends Component {
 }
 
 export const RewardsTable = RewardsTableNoWrap;
-
-/*
-    render() {
-      return(<div>
-          {(this.state.data && this.state.data.length) ?
-            <TableContainer component={Paper}>
-            <Table aria-label="collapsible table">
-              <TableHead>
-                <TableRow>
-                  {Object.keys(this.state.data[0]).map((key)=> {
-                    return(<TableCell key={key}>{key}</TableCell>);
-                  })}
-                </TableRow>
-              </TableHead>
-              <TableBody>
-                  {this.state.data.map((row, index)=> {
-                    return(
-                  <TableRow>{
-                    Object.keys(row).map((key)=> {
-                      return(<TableCell key = {index}>{row[key]}</TableCell>);
-                    })}
-                  </TableRow>
-                    )
-                  })}
-              </TableBody>
-            </Table>
-          </TableContainer>
-          : "" }
-          </div>)
-    }
-}
-*/
