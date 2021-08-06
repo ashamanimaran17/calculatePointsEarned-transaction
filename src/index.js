@@ -12,10 +12,10 @@ import {About} from "./../src/components/about/about.jsx";
 function App(){
     return(
         <Router>
-        <AppBar position="static" color="primary">
+        <AppBar position="static" color="primary" className={cx("appBar")}>
         <Toolbar>
-        <Button  to="/" component={Link} className={cx("appBarButton")}>Rewards table</Button>
-        <Button  to="/about" component={Link} className={cx("appBarButton")}>About</Button>
+        <Button  to="/" component={Link} className={cx("navButton")}>Rewards table</Button>
+        <Button  to="/about" component={Link} className={cx("navButton")}>About</Button>
         </Toolbar>
         </AppBar>
         <Switch>
