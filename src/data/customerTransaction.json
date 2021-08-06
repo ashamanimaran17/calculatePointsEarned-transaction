@@ -1,0 +1,96 @@
+[{
+    "name": "Alice",
+    "dateOfPurchase":1620279056000,
+    "transactionAmount":16
+},
+{
+    "name": "Alice",
+    "dateOfPurchase":1620279656000,
+    "transactionAmount":78
+},
+{
+    "name": "Alice",
+    "dateOfPurchase":1620366056000,
+    "transactionAmount":201
+},
+{
+    "name": "Alice",
+    "dateOfPurchase":1621057256000,
+    "transactionAmount":506
+},
+{
+    "name": "Alice",
+    "dateOfPurchase":1623044456000,
+    "transactionAmount":230
+},
+{
+    "name": "Alice",
+    "dateOfPurchase":1623735656000,
+    "transactionAmount":78
+},
+{
+    "name": "Alice",
+    "dateOfPurchase":1625550056000,
+    "transactionAmount":201
+},
+{
+    "name": "Jane",
+    "dateOfPurchase":1620279056000,
+    "transactionAmount":230
+},
+{
+    "name": "Jane",
+    "dateOfPurchase":1620279656000,
+    "transactionAmount":506
+},
+{
+    "name": "Jane",
+    "dateOfPurchase":1620366056000,
+    "transactionAmount":16
+},
+{
+    "name": "Jane",
+    "dateOfPurchase":1621057256000,
+    "transactionAmount":201
+},
+{
+    "name": "Jack",
+    "dateOfPurchase":1623044456000,
+    "transactionAmount":230
+},
+{
+    "name": "Jack",
+    "dateOfPurchase":1623735656000,
+    "transactionAmount":78
+},
+{
+    "name": "Jack",
+    "dateOfPurchase":1625550056000,
+    "transactionAmount":16
+},
+{
+    "name": "Jack",
+    "dateOfPurchase":1620366056000,
+    "transactionAmount":506
+},
+{
+    "name": "Nick",
+    "dateOfPurchase":1620279056000,
+    "transactionAmount":201
+},
+{
+    "name": "Nick",
+    "dateOfPurchase":1620279656000,
+    "transactionAmount":
+},
+{
+    "name": "Nick",
+    "dateOfPurchase":1620366056000,
+    "transactionAmount":230
+},
+{
+    "name": "Nick",
+    "dateOfPurchase":1621057256000,
+    "transactionAmount":78
+}
+]
