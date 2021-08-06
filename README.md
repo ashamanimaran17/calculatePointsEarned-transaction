@@ -2,14 +2,7 @@
 
 This project has been created using **webpack-cli**, you can now run
 
-```
-npm run build
-```
+ npm install
+ npm run-script serve
 
-or
-
-```
-yarn build
-```
-
-to bundle your application
+from root folder
