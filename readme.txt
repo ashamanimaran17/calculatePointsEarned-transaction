@@ -56,3 +56,7 @@ className={cx("testCSS")}
 npm install @material-ui/core --save
 npm install typeface-roboto --save
 npm install @material-ui/icons --save
+npm install @material-ui/lab --save
+devtool: 'source-map' in webpack to get source code for debugging
+//adding router
+npm install react-router-dom --save
